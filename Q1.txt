@@ -1,0 +1,7 @@
+Which one of these planets likely has the smallest orbit radius?
+Venus
+Earth
+Jupiter
+Mars
+1
+The planet closer to the sun has a smaller orbit radius, a good time to use the mnemonic you learned!
